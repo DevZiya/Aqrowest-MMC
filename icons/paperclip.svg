@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.769" height="16.652" viewBox="0 0 15.769 16.652">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c6b8ff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path id="paperclip" class="cls-1" d="M16.563,8.626,9.679,15.51a4.5,4.5,0,1,1-6.36-6.36L10.2,2.266a3,3,0,1,1,4.24,4.24L7.551,13.39a1.5,1.5,0,1,1-2.12-2.12l6.36-6.353" transform="translate(-1.502 -0.676)"/>
+</svg>

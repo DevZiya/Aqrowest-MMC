@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.5" height="12.5" viewBox="0 0 13.5 12.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a2a2a2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="clock" transform="translate(0.788 0.898)">
+    <ellipse id="Ellipse_35" data-name="Ellipse 35" class="cls-1" cx="6" cy="5.5" rx="6" ry="5.5" transform="translate(-0.038 -0.148)"/>
+    <path id="Path_4411" data-name="Path 4411" class="cls-1" d="M12,6V9.631l2.42,1.21" transform="translate(-6.555 -4.588)"/>
+  </g>
+</svg>
